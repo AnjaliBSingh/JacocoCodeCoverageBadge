@@ -1,0 +1,13 @@
+{
+  "name" : "jacoco-code-coverage-badge",
+  "version" : "1.0.0",
+  "description" : "Scraps a jacoco report and creates a code coverage badge",
+  "main" : "server.js",
+  "author" : "n7down",
+  "dependencies" : {
+    "express" : "latest",
+    "request" : "latest",
+    "cheerio" : "latest",
+    "minimist" : "latest"
+  }
+}
